@@ -1,3 +1,3 @@
 # Learning-Python
-Learning python (Self studying)
-These are various codes I am using to learn python
+Learning python 
+These are various codes I am trying with the goal of becoming skilled in python
